@@ -3,6 +3,7 @@
 **Message Review Construction Framework**
 ---
 >Message construction is solely centered around understanding the context of a message
+
 Context can be referred to as to the circumstances and information that surround an event, statement, or situation, giving it meaning and helping us understand its significance.
 It is crucial for accurate interpretation and communication.
 Therefore understanding the context of a message is important, below is a guide to use in understanding the context
