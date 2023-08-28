@@ -1,6 +1,4 @@
 # MessageReview
 **Message Review Construction Framework**
 ---
-```
-var x = 10;
-```
+>This is a blockquote
