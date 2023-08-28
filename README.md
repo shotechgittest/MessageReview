@@ -10,3 +10,4 @@
 
 
 >:💡:**Tip** Here is an important to tip to remember!
+Alfred's approval is always required
