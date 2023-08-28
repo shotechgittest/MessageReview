@@ -9,4 +9,4 @@
 
 
 
->:💡:**Tip**
+>:💡:**Tip** Here is an important to tip to remember!
