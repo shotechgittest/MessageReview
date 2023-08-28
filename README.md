@@ -1,10 +1,10 @@
 # MessageReview
 **Message Review Construction Framework**
 ---
-1.cdjhc
+-cdjhc
 
-2.sxhgch
+-sxhgch
 
-3.bdgc
+-bdgc
 
-3.dcnjv
+-dcnjv
